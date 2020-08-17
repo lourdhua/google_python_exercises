@@ -1,2 +1,2 @@
 # google_python_exercises
-Python exercises from Google python class 
+Work out samples from google's python course: http://code.google.com/edu/languages/google-python-class/
