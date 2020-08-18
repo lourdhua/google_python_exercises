@@ -26,7 +26,7 @@ def counterops(fname):
 def main():
     c={'a': 4, 'h': 1, 'b': 1, 'd': 1, 'l': 4}
     d={1: 'a', 2: 'g', 3: 'x', 6: 'n', 5: 's', 4: 'i', 99:5, 100:3, 80:80, 91:'7'}
-    fname = 'small.txt'
+    fname = 'https://github.com/lourdhua/google_python_exercises/blob/master/small.txt'
     basic_ops(d)
     counterops(fname)
 if __name__ == '__main__':
